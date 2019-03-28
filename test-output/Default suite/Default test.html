@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Nov 18 15:29:38 SGT 2016</td>
+</tr>
+<tr><td>Total time:</td><td>141 seconds (141563 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='acn.test.FinalExam.DemoQA()'><b>DemoQA</b><br>Test class: acn.test.FinalExam<br/>
+<a href="#Output-1241276575" onClick='toggleBox("Output-1241276575", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1241276575" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1241276575">
+<br/>
+>>>>> Executing FinalExam <<<<<<br/>
+<br/>
+Running test in Firefox<br/>
+Opened http://store.demoqa.com/<br/>
+Element is present in the page.<br/>
+Element is present in the page.<br/>
+Element is present in the page.<br/>
+Element is present in the page.<br/>
+Clicked Checkout link...<br/>
+The text Oops, there is nothing in your cart.is present in the web element.<br/>
+Clicked All Product link...<br/>
+Element is present in the page.<br/>
+The text $150.00is present in the web element.<br/>
+Element is present in the page.<br/>
+Clicked Add To Cart Button...<br/>
+Element is present in the page.<br/>
+The text You just added "Magic Mouse" to your cart.is present in the web element.<br/>
+Element is present in the page.<br/>
+Element is present in the page.<br/>
+Clicked Go to Checkout Link Button...<br/>
+The text Sub-Total:$150.00is present in the web element.<br/>
+The text Magic Mouseis present in the web element.<br/>
+Entered quantity in Checkout page...<br/>
+Clicked Update Button...<br/>
+The value 2is present in the web element.<br/>
+The text $300.00is present in the web element.<br/>
+Clicked Continue Button...<br/>
+The text Calculate Shipping Priceis present in the web element.<br/>
+Selected country in calculate shipping page...<br/>
+Selected PH country in calculate shipping page...<br/>
+Entered province in calculate shipping page...<br/>
+Clicked Calculate Button...<br/>
+The text $12.00is present in the web element.<br/>
+The text $300.00is present in the web element.<br/>
+The text $0.00is present in the web element.<br/>
+The text $312.00is present in the web element.<br/>
+Entered email in calculate shipping page...<br/>
+Entered first name in calculate shipping page...<br/>
+Entered last name in calculate shipping page...<br/>
+Entered address in calculate shipping page...<br/>
+Entered city in calculate shipping page...<br/>
+Entered undefined in calculate shipping page...<br/>
+Selected country in calculate shipping page...<br/>
+Selected PH country in calculate shipping page...<br/>
+Entered postal in calculate shipping page...<br/>
+Entered phone in calculate shipping page...<br/>
+Clicked Calculate Button...<br/>
+The text Your order will be shipped to the billing addressis present in the web element.<br/>
+Clicked Purchase Button...<br/>
+</div>
+</td>
+<td></td>
+<td>141</td>
+<td>acn.test.FinalExam@3abbfa04</td></tr>
+</table><p>
+</body>
+</html>

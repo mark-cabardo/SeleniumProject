@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Executing FinalExam <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Running test in Firefox]]>
+    </line>
+    <line>
+      <![CDATA[Opened http://store.demoqa.com/]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Checkout link...]]>
+    </line>
+    <line>
+      <![CDATA[The text Oops, there is nothing in your cart.is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked All Product link...]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[The text $150.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Add To Cart Button...]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[The text You just added "Magic Mouse" to your cart.is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Element is present in the page.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Go to Checkout Link Button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Sub-Total:$150.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[The text Magic Mouseis present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Entered quantity in Checkout page...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Update Button...]]>
+    </line>
+    <line>
+      <![CDATA[The value 2is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[The text $300.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Continue Button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Calculate Shipping Priceis present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Selected country in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Selected PH country in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered province in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Calculate Button...]]>
+    </line>
+    <line>
+      <![CDATA[The text $12.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[The text $300.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[The text $0.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[The text $312.00is present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Entered email in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered first name in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered last name in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered address in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered city in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered undefined in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Selected country in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Selected PH country in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered postal in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Entered phone in calculate shipping page...]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Calculate Button...]]>
+    </line>
+    <line>
+      <![CDATA[The text Your order will be shipped to the billing addressis present in the web element.]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Purchase Button...]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[>>>>> Terminating FinalExam <<<<<]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141563" started-at="2016-11-18T07:29:38Z" finished-at="2016-11-18T07:31:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141563" started-at="2016-11-18T07:29:38Z" finished-at="2016-11-18T07:31:59Z">
+      <class name="acn.test.FinalExam">
+        <test-method status="PASS" signature="DemoQA()[pri:0, instance:acn.test.FinalExam@3abbfa04]" name="DemoQA" duration-ms="141031" started-at="2016-11-18T15:29:38Z" finished-at="2016-11-18T15:31:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Executing FinalExam <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Running test in Firefox]]>
+            </line>
+            <line>
+              <![CDATA[Opened http://store.demoqa.com/]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Checkout link...]]>
+            </line>
+            <line>
+              <![CDATA[The text Oops, there is nothing in your cart.is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked All Product link...]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[The text $150.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Add To Cart Button...]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[The text You just added "Magic Mouse" to your cart.is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Element is present in the page.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Go to Checkout Link Button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Sub-Total:$150.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[The text Magic Mouseis present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Entered quantity in Checkout page...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Update Button...]]>
+            </line>
+            <line>
+              <![CDATA[The value 2is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[The text $300.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Continue Button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Calculate Shipping Priceis present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Selected country in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Selected PH country in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered province in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Calculate Button...]]>
+            </line>
+            <line>
+              <![CDATA[The text $12.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[The text $300.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[The text $0.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[The text $312.00is present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Entered email in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered first name in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered last name in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered address in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered city in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered undefined in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Selected country in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Selected PH country in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered postal in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Entered phone in calculate shipping page...]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Calculate Button...]]>
+            </line>
+            <line>
+              <![CDATA[The text Your order will be shipped to the billing addressis present in the web element.]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Purchase Button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DemoQA -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:acn.test.FinalExam@3abbfa04]" name="endTest" is-config="true" duration-ms="511" started-at="2016-11-18T15:31:59Z" finished-at="2016-11-18T15:31:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[>>>>> Terminating FinalExam <<<<<]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- acn.test.FinalExam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
