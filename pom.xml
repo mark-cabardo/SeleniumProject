@@ -30,9 +30,9 @@
 	  		</executions>
 	  			<parallel>classes</parallel>
 	            <skip>false</skip>
-	         	<suiteXmlFiles>
+	<!--         	<suiteXmlFiles>
 	  					<suiteXmlFile>testng-suites\testng.xml</suiteXmlFile>
-	  			</suiteXmlFiles>
+	  			</suiteXmlFiles> -->
 	  			 <includes>
 	              <include>**/Test*.java</include>
 	              <include>**/*Tests*.java</include>
