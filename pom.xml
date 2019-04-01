@@ -37,7 +37,7 @@
 	  			<parallel>classes</parallel>
 	            <skip>false</skip>
 	<!--         	<suiteXmlFiles>
-	  					<suiteXmlFile>testng-suites\testng.xml</suiteXmlFile>
+	  				 	<suiteXmlFile>testng-suites\testng.xml</suiteXmlFile>
 	  			</suiteXmlFiles> -->
 	  			 <includes>
 	              <include>**/Test*.java</include>
